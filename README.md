@@ -1,6 +1,11 @@
 # DAS-with-RaspberryPi-
 RaspberryPi based Data acquisition system for industrial use.
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-gggggggggggggggggggggggggggggggggggggggggg
-ggggggggggggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggggggggggggggggggggggggg\
+ggggggggggggggggggg
+gggggggggggggggggg
+gggggggggggggg\
+gggggggggggggggggggggggggggggggggggggggg\
+gggggggggg\
+gg\
+gggggg
 
