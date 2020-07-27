@@ -4,7 +4,7 @@ This project is to read the data signal,display,control remotely and store it fo
 
 
 ## DAS:
- Data Acquisition System is a process of converting data(ADC or DAC),Processing or manipulating data,Storage of data and transmission of data.\
+ Data Acquisition System is a process of converting data(ADC or DAC),Processing or manipulating data,Storage of data and transmission of data.
 
 
 ## GUI development for RaspberryPi:
@@ -43,10 +43,10 @@ This project is to read the data signal,display,control remotely and store it fo
    
    
 ### How to run?
-1.Download the *icons* folder.
-2.Keep the images inside the Icons folder and python file in same directory
-  (or) you can replace the directory of the images in the python file.
-3.Run `DataLogger_windows.py` file.
+1.Download the *icons* folder.  
+2.Keep the images inside the Icons folder and python file in same directory  
+  (or) you can replace the directory of the images in the python file.  
+3.Run `DataLogger_windows.py` file.  
 
 
 ### Future Development:
