@@ -1,17 +1,9 @@
-#import tkinter
 import tkinter as tk  
 from tkinter import *
-#import matplotlib.pyplot as plt
-#from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-#import numpy as np
 from tkinter import ttk
 import datetime
 from tkcalendar import Calendar, DateEntry
 from time import strftime
-#import threading
-#from tkinter import simpledialog
-#from PIL import Image, ImageTk
-import re                                                           # to validate the mail id
 
 mail_filename="mail_ids.txt"                                         #enter the filename to store mail id
 
